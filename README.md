@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kojiro Mukai
 
-<!--
-**Sikawo/Sikawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research scientist specializing in innate immunity, host–pathogen interactions, and quantitative cell biology.
 
-Here are some ideas to get you started:
+## Research Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected projects under private development:
+
+- **ai_research_os** — AI-assisted research workflows and laboratory infrastructure.
+- **microscopy_quant** — Quantitative single-cell microscopy analysis.
+- **lab_analysis_tools** — Reproducible data analysis and quality-control tools.
+
+*Source code is private.*
